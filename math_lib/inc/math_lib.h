@@ -2,5 +2,6 @@
 #define MATH_LIB_H
 
 int lib_func_3();
+double lib_func_4();
 
 #endif //MATH_LIB_H
